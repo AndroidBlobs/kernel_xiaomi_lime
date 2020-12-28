@@ -3,6 +3,7 @@
  * key management facility for FS encryption support.
  *
  * Copyright (C) 2015, Google, Inc.
+ * Copyright (C) 2020 XiaoMi, Inc.
  *
  * This contains encryption key functions.
  *
